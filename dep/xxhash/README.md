@@ -203,3 +203,5 @@ They are [listed here](https://www.xxhash.com/#other-languages).
 >   + If you plan to propose a patch, please commit into the "dev" branch,
       or its own feature branch.
       Direct commit to "master" are not permitted.
+
+<!-- Auto-update: 2025-10-06T17:42:42.457256 -->
